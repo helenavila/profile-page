@@ -1,0 +1,102 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #FAD4D8;
+}
+
+
+
+img {
+  border: 1px solid #c3c3c3;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
+body {
+    background-image: url("pizza.jpg");
+}
+
+#title{
+    border-style: double;
+    border-width: 10px;
+    border-color: rgba(197, 235, 245, 0.884);
+    font-size: 45px;
+    background-color: hsl(0, 100%, 90%);
+    font-family: 'Cormorant Unicase', serif;
+    font-weight:bold; 
+}
+
+#img1{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+   
+#img2{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+
+#img3{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+
+#img4{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+
+#img5{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+
+#img6{
+    margin: 10px;
+    border: 10px dotted hsl(0, 100%, 75%);
+    /*height: 400px;*/
+    /*width: 400px;*/
+}
+
+
+#question{
+    font-family: 'Rancho';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Rancho Regular'), local('Rancho-Regular'), url(https://fonts.gstatic.com/s/rancho/v8/46kulbzmXjLaqZRVam_h.woff2) format('woff2');
+    text-shadow: .04em .04em 0 #fff,.08em .08em 0 #aaa;
+    -webkit-text-shadow: .04em .04em 0 #fff, .08em .08em 0 #aaa;   
+    font-size: 35px;
+    font-weight: bold;
+    background-color:rgba(253, 135, 0, 0.541);
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgba(139, 214, 233, 0.884);
+}
+
+#answer{
+    font-size: 25px; 
+    background-color: antiquewhite;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(139, 214, 233, 0.884);
+    font-family: 'Cormorant Unicase', serif;
+    font-weight: bold
+
+
